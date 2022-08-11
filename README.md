@@ -29,24 +29,24 @@ If you want to use the mainnet API, please go to
 
 
 
-## Project requirements: 
+## Project requirements:
 
-    - [x]  Use OpenSea API to get the collectables in this Ethereum account 
+  - [x] Use OpenSea API to get the collectables in this Ethereum account 
 
-    - [x]  Implement pagination. (infinite scrolling) 
-    - [x]  Show two columns of items. 
-    - [x]  Each item shows the name and the image. 
-    - [x]   basic RWD 
-    - [x]   Show collection name on the header 
-    - [x]   Fit the image on the screen. Image should take up the entire width.
-    - [x]   Display the name of the collectable 
-    - [x]   Display the description of the collectable, note that some collectibles have a very long description. 
-    - [x]   A fixed button on the bottom that goes to the permalink of the collectable Again. 
+  - [x] Implement pagination. (infinite scrolling) 
+  - [x] Show two columns of items. 
+  - [x] Each item shows the name and the image. 
+  - [x] basic RWD 
+  - [x] Show collection name on the header 
+  - [x] Fit the image on the screen. Image should take up the entire width.
+  - [x] Display the name of the collectable 
+  - [x] Display the description of the collectable, note that some collectibles have a very long description. 
+  - [x] A fixed button on the bottom that goes to the permalink of the collectable Again. 
 
-    Bonus: 
+### Bonus: 
 
-    - [] Use RxJS for data retrieval 
-    - [x]  Use web3.js and use the address from the Metamask 
+  - [ ] Use RxJS for data retrieval 
+  - [x] Use web3.js and use the address from the Metamask 
 
 
 
